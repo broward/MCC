@@ -7,4 +7,4 @@ This is a swing-based cloud admin client I wrote in 2011. It manages mBean compo
 
 This was the only worthwhile thing I wrote in 2011 and it was only a few weeks. :)
 
-I might recreate the original server and mockup the mbeans (with a better objectname structure  :) )
+A recreation of the server component is here - https://github.com/broward/Kmon
